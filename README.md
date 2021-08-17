@@ -6,6 +6,7 @@ Windows :
   4. cmake .
   5. cmake --build .
   6. go to the build/ directory and double click on the bomberman.exe
+  
 Linux :
   1. Install Cmake
   2. Clone the repo and go into
